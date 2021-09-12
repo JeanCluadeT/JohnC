@@ -35,7 +35,8 @@ Integrated Polytechnic Regional college, Tumba (IPRC Tumba)
 A2 | Computer Science 	11/2016 
 APENA TSS 
 
-LANGUAGES	
+LANGUAGES
+
 Kinyarwanda: Native language 
 
 French: 	B1  
