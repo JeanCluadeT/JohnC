@@ -33,7 +33,6 @@ Advanced Diploma | Information Communication Technology     05/2021
 Integrated Polytechnic Regional college, Tumba (IPRC Tumba) 
 
 A2 | Computer Science 	11/2016 
-APENA TSS 
 
 LANGUAGES
 
@@ -50,13 +49,6 @@ Advanced
 
 Sign Language: 	B1  
 Intermediate
-	
-
-
-ACCOMPLISHMENTS	
-•	My project "Nkarimo Website" develop to help small companies in management and marketing. 
-
-
 
 CERTIFICATIONS	
 •	Master Python With NumPy for Data Science & Machine Learning
@@ -76,9 +68,6 @@ Tel number: 0786214687
 CEO of Virtual Rwanda
 Tel number: 0781832465
 
-ADDITIONAL INFORMATION	
-I certify that the information given above is correct to the best of my knowledge.
-Done at Kigali on 15th August 2021
 TURISANGA Jean Claude
 
 
